@@ -2,7 +2,7 @@
 
 A blockchain-based platform where users can submit knowledge entries, vote on content, and earn KNOW tokens for valuable contributions. Built with Solidity ^0.8.20, Hardhat, and TypeScript.
 
-## 🎯 Hackathon Demo Ready Features
+## 🎯 Demo Ready Features
 
 - **📝 Knowledge Entry Submission**: Users can submit knowledge with IPFS content storage
 - **🗳️ Democratic Voting System**: Community-driven upvote/downvote mechanism
@@ -168,7 +168,7 @@ scripts/
 ignition/modules/         # Hardhat Ignition modules
 ```
 
-## 🎯 Hackathon Highlights
+## 🎯 Highlights
 
 - **Complete DApp Backend**: Ready for frontend integration
 - **Token Economics**: Built-in incentive mechanism
@@ -186,4 +186,4 @@ ignition/modules/         # Hardhat Ignition modules
 
 ---
 
-**Built for hackathons, designed for the future of decentralized knowledge sharing! 🌟**
+**Built and designed for the future of decentralized knowledge sharing! 🌟**
